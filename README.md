@@ -1,9 +1,9 @@
-
-<h1 align="center">Hi 👋🏾, I'm ElleDavis</h1>
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)]
+<h1 align="center">Hi 👋🏾, I'm Elle Davis</h1>
 <h3 align="center">A passionate frontend developer based in Atlanta</h3>
 
-
 - 🌱 I’m currently learning **SQL and Python**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/elle-davis/](https://www.linkedin.com/in/elle-davis/)
 
 <h3 align="left">Connect with me:</h3>
