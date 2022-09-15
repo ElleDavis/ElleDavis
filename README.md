@@ -10,7 +10,6 @@
 - 💬 Ask me about **react**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/elle-davis/](https://www.linkedin.com/in/elle-davis/)
-                               [https://shanitricedavis.netlify.app/](https://shanitricedavis.netlify.app/)
 
 - ⚡ Fun fact **I can untie and knot🪢**
 
