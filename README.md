@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/elle-davis/](https://www.linkedin.com/in/elle-davis/)
 
-- ⚡ Fun fact **I can untie and knot🪢**
+- ⚡ Fun fact **I can untie any knot🪢**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
